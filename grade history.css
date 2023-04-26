@@ -1,0 +1,57 @@
+* {
+    /* background-color: gray; */
+  }
+.mainBox {
+    border: 1px solid black;
+    /* background-color: white; */
+    /* display: flex; */
+    width: 70%;
+    /* align-items: center; */
+    float: center;
+    margin-left: 12.5em;
+    margin-top: 3em;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  .heading {
+    display: flex;
+    border: 1px solid black;
+    background-color: rgb(89, 168, 199);
+  }
+  
+  .logo {
+    flex: left;
+  }
+  .info {
+    flex: right;
+  }
+  .gtu {
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 15px;
+    color: red;
+  }
+  .sgh {
+    font-size: 30px;
+    margin-left: 220px;
+    color: aliceblue;
+  }
+  #t30 {
+    background-color: rgb(210, 180, 140);
+    /* font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;*/
+  }
+  #t31 {
+    background-color: rgb(250, 250, 210);
+    /* font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif; */
+  }
+  #t32 {
+    background-color: rgb(255, 228, 196);
+  }
+  #t33 {
+    background-color: rgb(169, 226, 234);
+  }
+  #t34 {
+    background-color: rgb(247, 221, 117);
+  }
+  
