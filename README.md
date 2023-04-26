@@ -1,2 +1,2 @@
 # Student-grade-history
-GTU clone student grade website
+I have tried to build a clone GTU Student grade history website using frontend development - HTML, CSS, JavaScript.
